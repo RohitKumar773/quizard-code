@@ -1,0 +1,35 @@
+.correct{
+  background-color: rgb(111, 255, 111);
+}
+.wrong{
+  background-color: rgb(255, 184, 184);
+}
+
+
+@media(max-width:1022px) and (min-width:0px){
+  #logo{
+    width: 60%;
+  }
+  #logo img{
+    height: 80%;
+    margin-top: 2%;
+    margin-left: 20px;
+  }
+  #menu{
+    display: none;
+  }
+  #login{
+    display: none;
+  }
+}
+@media(max-width:470px) and (min-width:0px){
+  #cardss{
+    width: 80%;
+    flex-direction: column;
+    margin-left: 10%;
+    margin-top: 10%;
+  }
+  #title{
+    font-size: 18px;
+  }
+}

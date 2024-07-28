@@ -1,0 +1,147 @@
+export const data = [
+    {
+        question: "What is the full form of HTML?",
+        option1: "Hyper Text Markup Language",
+        option2: "Hyper Tough Markup Language",
+        option3: "Heat Type Markup Language",
+        option4: "Hyper Text Markeup Land",
+        ans: 1,
+    },
+    {
+        question: "What is the use of HTML?",
+        option1: "For AI",
+        option2: "For animation",
+        option3: "To create Machine",
+        option4: "To create layout of webpage",
+        ans: 4,
+    },
+    {
+        question: "What is the Current Version of HTMl?",
+        option1: "HTML",
+        option2: "HTML3",
+        option3: "HTML5",
+        option4: "HTML4",
+        ans: 3,
+    },
+    {
+        question: "What is the use of <p></p> tag?",
+        option1: "To create polinomium",
+        option2: "Making Paragraph in webpage",
+        option3: "Creating pattern",
+        option4: "for pagination",
+        ans: 2,
+    },
+    {
+        question: "What is the use of div?",
+        option1: "to create seperate area",
+        option2: "to create form input",
+        option3: "to create pagination",
+        option4: "Making diver Type",
+        ans: 1,
+    },
+    {
+        question: "Use of <b> tag in HTML.",
+        option1: "for text underline",
+        option2: "for bolding the text",
+        option3: "for text distance",
+        option4: "none of these",
+        ans: 2,
+    },
+    {
+        question: "What is the use of semantic tags?",
+        option1: "For styling",
+        option2: "To create layout of website",
+        option3: "Semantic tags used for SEO",
+        option4: "none of these",
+        ans: 3,
+    },
+]
+
+// css 
+
+export const cssData = [
+    {
+        question: "What is the full form of CSS?",
+        option1: "Cascading Stylesheet",
+        option2: "Component Short Selection",
+        option3: "Common Seperate Style",
+        option4: "Command Selular Screen",
+        ans: 1,
+    },
+    {
+        question: "How to select ID's in HTML?",
+        option1: "using .",
+        option2: "using #",
+        option3: "using *",
+        option4: "none of these",
+        ans: 2,
+    },
+    {
+        question: "Why we use media query?",
+        option1: "For animation",
+        option2: "for color effect",
+        option3: "for responsive web design",
+        option4: "none of these",
+        ans: 3,
+    },
+    {
+        question: "What is the use of <p></p> tag?",
+        option1: "To create polinomium",
+        option2: "Making Paragraph on web page",
+        option3: "Creating path",
+        option4: "none of these",
+        ans: 2,
+    },
+    {
+        question: "What is the use of CSS?",
+        option1: "Designing the web page",
+        option2: "making functions",
+        option3: "creating programs for ML",
+        option4: "none",
+        ans: 1,
+    },
+] 
+
+
+export const jsData = [
+    {
+        question: "What is the full form of JS?",
+        option1: "Javascript",
+        option2: "Java Searching",
+        option3: "Jarvis",
+        option4: "Java Server",
+        ans: 1,
+    },
+    {
+        question: "Javascript is a ... language?",
+        option1: "compiling",
+        option2: "scripting",
+        option3: "a and b both",
+        option4: "none of these",
+        ans: 2,
+    },
+    {
+        question: "How to create variable in js?",
+        option1: "using string and int",
+        option2: "there is no need of variable",
+        option3: "using let, var, and const",
+        option4: "none of these",
+        ans: 3,
+    },
+    {
+        question: "What is the current version of javacript?",
+        option1: "1.2",
+        option2: "ES6",
+        option3: "BS6",
+        option4: "none of these",
+        ans: 2,
+    },
+    {
+        question: "How to use js in html?",
+        option1: "Using script tag",
+        option2: "cloud",
+        option3: "using ML",
+        option4: "none",
+        ans: 1,
+    },
+] 

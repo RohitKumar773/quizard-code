@@ -1,0 +1,13 @@
+@media(max-width:1230px) and (min-width:0px){
+    #maincard{
+        width: 80%;
+    }
+}
+@media(max-width:530px) and (min-width:0px){
+    #maincard{
+        width: 90%;
+    }
+    #question{
+        font-size: 18px;
+    }
+}
