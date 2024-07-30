@@ -15,6 +15,7 @@ import Htmlquiz from "./components/html/Htmlquiz.jsx";
 import Cssquiz from "./components/css/Cssquiz.jsx";
 import Service from "./components/services/Service.jsx";
 import Jsquiz from "./components/jsquiz/Jsquiz.jsx";
+import Winner from "./components/winner/Winner.jsx";
 import User from "./components/User/User.jsx";
 
 // const router = createBrowserRouter([
@@ -48,6 +49,7 @@ const router = createBrowserRouter(
       <Route path="cssquiz" element={<Cssquiz />} />
       <Route path="service" element={<Service />} />
       <Route path="jsquiz" element={<Jsquiz />} />
+      <Route path="winner" element={<Winner />} />
       <Route path="user/:userid" element={<User />} />
     </Route>
   )

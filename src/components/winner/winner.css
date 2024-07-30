@@ -1,0 +1,15 @@
+@media(max-width:420px) and (min-width:0){
+    #user{
+        width: 100px;
+        height: 100px;
+    }
+    #user img{
+        width: 100px;
+        height: 100px;
+    }
+    #name{
+        width: 100px;
+        height: 60px;
+        font-size: 10px;
+    }
+}

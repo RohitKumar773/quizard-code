@@ -169,6 +169,17 @@ const Cssquiz = () => {
                   >
                     Play Again
                   </button>
+                  <br />
+
+                  <NavLink
+                    to="/winner"
+                    className="w-36 text-center text-white bg-blue-500 hover:bg-blue-700 focus:ring-4 
+            focus:ring-blue-300 font-medium rounded-md text-sm px-4 lg:px-5 py-2 lg:py-2.5 
+            focus:outline-none"
+                  >
+                    Review Label
+                  </NavLink>
+
                   <ReactConfetti />
                   <br />
                 </div>
